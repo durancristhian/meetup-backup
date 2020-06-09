@@ -22,6 +22,8 @@ module.exports = {{THE_ARRAY_YOU_GOT_FROM_DEVTOOLS}}
 
 4. Update the variable MEETUP_GROUP_NAME with the name of your meetup group name
 
+5. Remember to execute this script with only one id, otherwise you'll get a 429
+
 */
 
 const MEETUP_GROUP_NAME = 'burgerjs'

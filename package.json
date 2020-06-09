@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "backup": "node scripts/backup",
+    "build": "parcel build web/index.html --out-dir public",
+    "now-build": "parcel build web/index.html --out-dir public",
     "start": "parcel web/index.html",
-    "backup": "node scripts/backup"
+    "now-start": "parcel web/index.html"
   },
   "keywords": [],
   "author": "",
