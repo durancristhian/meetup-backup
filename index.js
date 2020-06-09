@@ -84,7 +84,7 @@ eventIds.forEach(async eventId => {
         fs.writeFileSync(eventInformationPath, JSON.stringify(event, null, 2))
         fs.writeFileSync(photosPath, JSON.stringify(photos, null, 2))
 
-        if (Object.values(photos)) {
+        if (photos.length) {
             fs.mkdirSync(photosFolderPath, { recursive: true })
 
             Object.values(photos)
@@ -97,7 +97,7 @@ eventIds.forEach(async eventId => {
                 .forEach(({ extension, index, url }) => {
                     download(
                         url,
-                        path.join(photosFolderPath, `${index}.${extension}`),
+                        path.join(photosFolderPath, `${index}${extension}`),
                         () => { }
                     )
                 })
