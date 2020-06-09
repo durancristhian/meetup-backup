@@ -1,0 +1,25 @@
+[
+  {
+    "id": 494597307,
+    "comment": "We’re on the 1st floor! Estamos en el primer piso!",
+    "link": "https://www.meetup.com/burgerjs/events/254618560/comments/494597307/",
+    "created": 1536878861000,
+    "like_count": 0,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  }
+]

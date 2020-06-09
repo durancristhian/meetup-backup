@@ -1,0 +1,93 @@
+[
+  {
+    "id": 473845234,
+    "comment": "Esa hamburguesa con chipotle me enamoro ❤️",
+    "link": "https://www.meetup.com/burgerjs/events/236116314/comments/473845234/",
+    "created": 1482179556000,
+    "like_count": 1,
+    "member": {
+      "id": 176440082,
+      "name": "Agustin P.",
+      "photo": {
+        "id": 248615362,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/8/a/2/2/highres_248615362.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/8/a/2/2/member_248615362.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/8/a/2/2/thumb_248615362.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 473732844,
+    "comment": "va como piña",
+    "link": "https://www.meetup.com/burgerjs/events/236116314/comments/473732844/",
+    "created": 1481897882000,
+    "like_count": 1,
+    "member": {
+      "id": 116173922,
+      "name": "Nicolas I.",
+      "bio": "Soy programador y me gustan las hamburguesas!",
+      "photo": {
+        "id": 245540436,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/highres_245540436.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/member_245540436.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/thumb_245540436.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 473732242,
+    "comment": "La hamburguesa \"me gustó\" se podría decir, $110 la burger con las papas ($190 con birra, que era muy fulera). \n\nMe pareció \"destacable\" que no se desarmaba, seguro porque no era muy grande, me llené, pero al rato quería una segunda.\n\nLa birra fue muy fea, posta. Habiendo tanta competencia, declaro no volver jaja\n\nLo bueno fue que me reí bastante",
+    "link": "https://www.meetup.com/burgerjs/events/236116314/comments/473732242/",
+    "created": 1481896414000,
+    "like_count": 2,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  },
+  {
+    "id": 473730649,
+    "comment": "Genial como siempre",
+    "link": "https://www.meetup.com/burgerjs/events/236116314/comments/473730649/",
+    "created": 1481891623000,
+    "like_count": 1,
+    "member": {
+      "id": 195189878,
+      "name": "Manuel R.",
+      "bio": "Software developer and architect, passionate by JavaScript. I love beer, food and do it with the community.",
+      "photo": {
+        "id": 291392670,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/9/e/highres_291392670.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/9/e/member_291392670.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/9/e/thumb_291392670.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": true
+      }
+    }
+  }
+]

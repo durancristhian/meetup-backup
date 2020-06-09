@@ -1,0 +1,73 @@
+[
+  {
+    "id": 497694318,
+    "comment": "Yo comí una 🍔 doble de queso azul, cebolla caramelizada y alioli. Me gustó mucho el pan que no se desarmó en todo el ritual. \n\nTomé una limonada (8/10 cristhianes) y unas birras rubias que estaban ok. \n\nDefinitivamente un lugar para volver a seguir morfando y usando la pared para proyectar 📽",
+    "link": "https://www.meetup.com/burgerjs/events/257708298/comments/497694318/",
+    "created": 1547121574000,
+    "like_count": 1,
+    "replies": [
+      {
+        "id": 260217442,
+        "in_reply_to": 497694318,
+        "comment": "Estaba muy buena tu hamburguesa de doble de queso azul, pero la birra parecía rebajada con agua 🤢",
+        "link": "https://www.meetup.com/burgerjs/events/257708298/comments/497694318/",
+        "created": 1547132589000,
+        "like_count": 1,
+        "member": {
+          "id": 251590762,
+          "name": "Matias G.",
+          "photo": {
+            "id": 283974057,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/d/3/2/9/highres_283974057.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/d/3/2/9/member_283974057.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/d/3/2/9/thumb_283974057.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+          },
+          "event_context": {
+            "host": false
+          }
+        }
+      },
+      {
+        "id": 260217837,
+        "in_reply_to": 497694318,
+        "comment": "Coincido 🙆",
+        "link": "https://www.meetup.com/burgerjs/events/257708298/comments/497694318/",
+        "created": 1547134782000,
+        "like_count": 1,
+        "member": {
+          "id": 271403306,
+          "name": "Jazmín G.",
+          "photo": {
+            "id": 283844926,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/a/f/7/e/highres_283844926.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/a/f/7/e/member_283844926.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/a/f/7/e/thumb_283844926.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+          },
+          "event_context": {
+            "host": false
+          }
+        }
+      }
+    ],
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  }
+]

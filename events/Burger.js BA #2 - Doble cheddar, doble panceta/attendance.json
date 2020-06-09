@@ -1,0 +1,300 @@
+[
+  {
+    "member": {
+      "id": 35198602,
+      "name": "Alex R.",
+      "photo": {
+        "id": 226521902,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/5/5/8/e/highres_226521902.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/5/5/8/e/member_226521902.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/5/5/8/e/thumb_226521902.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637445735,
+      "response": "yes",
+      "guests": 1,
+      "updated": 1478206052000
+    }
+  },
+  {
+    "member": {
+      "id": 187235117,
+      "name": "Camila C.",
+      "photo": {
+        "id": 277693833,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/3/6/0/9/highres_277693833.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/3/6/0/9/member_277693833.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/0/9/thumb_277693833.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "organizer",
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637608402,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478108837000
+    }
+  },
+  {
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    },
+    "rsvp": {
+      "id": 1637438522,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478025253000
+    }
+  },
+  {
+    "member": {
+      "id": 90152702,
+      "name": "Diego P.",
+      "photo": {
+        "id": 223256702,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/d/d/7/e/highres_223256702.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/d/d/7/e/member_223256702.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/d/d/7/e/thumb_223256702.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637759941,
+      "response": "no",
+      "guests": 0,
+      "updated": 1478185823000
+    }
+  },
+  {
+    "member": {
+      "id": 23464641,
+      "name": "Gabriel M.",
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637446308,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478028100000
+    }
+  },
+  {
+    "member": {
+      "id": 184107251,
+      "name": "Guido T.",
+      "photo": {
+        "id": 261090607,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/7/8/f/highres_261090607.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/7/8/f/member_261090607.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/7/8/f/thumb_261090607.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637447199,
+      "response": "no",
+      "guests": 0,
+      "updated": 1478028449000
+    }
+  },
+  {
+    "member": {
+      "id": 14435592,
+      "name": "Leandro C.",
+      "photo": {
+        "id": 281864790,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/highres_281864790.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/member_281864790.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/thumb_281864790.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637439545,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478025617000
+    }
+  },
+  {
+    "member": {
+      "id": 190788979,
+      "name": "Maku N.",
+      "photo": {
+        "id": 248466125,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/7/e/d/highres_248466125.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/7/e/d/member_248466125.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/7/e/d/thumb_248466125.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637665488,
+      "response": "yes",
+      "guests": 1,
+      "updated": 1478130163000
+    }
+  },
+  {
+    "member": {
+      "id": 195189878,
+      "name": "Manuel R.",
+      "bio": "Software developer and architect, passionate by JavaScript. I love beer, food and do it with the community.",
+      "event_context": {
+        "host": true
+      }
+    },
+    "rsvp": {
+      "id": 1637438521,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478025253000
+    }
+  },
+  {
+    "member": {
+      "id": 83332042,
+      "name": "Manuel Z.",
+      "photo": {
+        "id": 246115113,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/d/7/4/9/highres_246115113.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/d/7/4/9/member_246115113.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/d/7/4/9/thumb_246115113.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637449657,
+      "response": "no",
+      "guests": 0,
+      "updated": 1478029341000
+    }
+  },
+  {
+    "member": {
+      "id": 190932738,
+      "name": "Matias B.",
+      "photo": {
+        "id": 265924390,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/highres_265924390.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/member_265924390.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/thumb_265924390.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637439046,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478025442000
+    }
+  },
+  {
+    "member": {
+      "id": 138095502,
+      "name": "Nicolás Bello C.",
+      "photo": {
+        "id": 184933302,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/3/3/f/6/highres_184933302.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/3/3/f/6/member_184933302.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/3/3/f/6/thumb_184933302.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637439395,
+      "response": "no",
+      "guests": 0,
+      "updated": 1478025563000
+    }
+  },
+  {
+    "member": {
+      "id": 185816571,
+      "name": "Raúl J.",
+      "photo": {
+        "id": 245063024,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/5/9/f/0/highres_245063024.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/5/9/f/0/member_245063024.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/5/9/f/0/thumb_245063024.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1637444025,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478027269000
+    }
+  },
+  {
+    "member": {
+      "id": 0,
+      "name": "Former member"
+    },
+    "rsvp": {
+      "id": 1637454889,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1478031215000
+    }
+  }
+]

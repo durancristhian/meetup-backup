@@ -1,0 +1,117 @@
+[
+  {
+    "id": 499735484,
+    "comment": "Cuanto siento no poder hamburguesas con ustedes hoy, mando abrazo y nos vemos en la prox. PD: Guardenme un sticker de esa constante 😍🍔",
+    "link": "https://www.meetup.com/burgerjs/events/259897068/comments/499735484/",
+    "created": 1553112490000,
+    "like_count": 0,
+    "member": {
+      "id": 237711540,
+      "name": "Juan S.",
+      "photo": {
+        "id": 271095277,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/3/b/a/d/highres_271095277.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/3/b/a/d/member_271095277.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/3/b/a/d/thumb_271095277.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 499704927,
+    "comment": "Ese sticker del array me vuelve loco.",
+    "link": "https://www.meetup.com/burgerjs/events/259897068/comments/499704927/",
+    "created": 1553016162000,
+    "like_count": 1,
+    "replies": [
+      {
+        "id": 261264261,
+        "in_reply_to": 499704927,
+        "comment": "Te guardo uno si venís 😎",
+        "link": "https://www.meetup.com/burgerjs/events/259897068/comments/499704927/",
+        "created": 1553016487000,
+        "like_count": 1,
+        "member": {
+          "id": 56578422,
+          "name": "Cristhian D.",
+          "photo": {
+            "id": 264158339,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+          },
+          "role": "coorganizer",
+          "event_context": {
+            "host": true
+          }
+        }
+      },
+      {
+        "id": 261268689,
+        "in_reply_to": 499704927,
+        "comment": "quiero! jaja! nos vemos alla! (super trainee de JS aqui)",
+        "link": "https://www.meetup.com/burgerjs/events/259897068/comments/499704927/",
+        "created": 1553035355000,
+        "like_count": 1,
+        "member": {
+          "id": 225560362,
+          "name": "kupuna",
+          "photo": {
+            "id": 282071840,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/2/e/4/0/highres_282071840.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/2/e/4/0/member_282071840.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/2/e/4/0/thumb_282071840.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+          },
+          "event_context": {
+            "host": false
+          }
+        }
+      }
+    ],
+    "member": {
+      "id": 217449855,
+      "name": "Mariano Montero S.",
+      "photo": {
+        "id": 262231716,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/b/e/4/highres_262231716.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/b/e/4/member_262231716.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/b/e/4/thumb_262231716.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 499705390,
+    "comment": "Holis!",
+    "link": "https://www.meetup.com/burgerjs/events/259897068/comments/499705390/",
+    "created": 1553017147000,
+    "like_count": 1,
+    "member": {
+      "id": 50376562,
+      "name": "Davo G.",
+      "photo": {
+        "id": 273350318,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/c/4/8/e/highres_273350318.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/c/4/8/e/member_273350318.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/c/4/8/e/thumb_273350318.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

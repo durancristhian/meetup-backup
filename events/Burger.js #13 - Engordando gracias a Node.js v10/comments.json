@@ -1,0 +1,69 @@
+[
+  {
+    "id": 490728454,
+    "comment": "Que se repita!!!!!",
+    "link": "https://www.meetup.com/burgerjs/events/249981139/comments/490728454/",
+    "created": 1524839663000,
+    "like_count": 0,
+    "member": {
+      "id": 224703953,
+      "name": "Markos T.",
+      "photo": {
+        "id": 265593847,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/8/4/3/7/highres_265593847.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/8/4/3/7/member_265593847.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/8/4/3/7/thumb_265593847.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 490725622,
+    "comment": "La hamburguesa me gustó mucho. No se desarmó en todo el proceso de ser comida. El pan esta muy bien. Esperaba un poco mas de bacon. Un 6,5",
+    "link": "https://www.meetup.com/burgerjs/events/249981139/comments/490725622/",
+    "created": 1524832952000,
+    "like_count": 1,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  },
+  {
+    "id": 490656947,
+    "comment": "Porfa abran un cupo más!! Jejeje",
+    "link": "https://www.meetup.com/burgerjs/events/249981139/comments/490656947/",
+    "created": 1524611393000,
+    "like_count": 1,
+    "member": {
+      "id": 252184582,
+      "name": "Carlos G.",
+      "photo": {
+        "id": 276315496,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/3/c/8/8/highres_276315496.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/3/c/8/8/member_276315496.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/3/c/8/8/thumb_276315496.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

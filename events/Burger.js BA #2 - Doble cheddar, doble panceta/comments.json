@@ -1,0 +1,91 @@
+[
+  {
+    "id": 472291563,
+    "comment": "El lugar al comienzo fue copado, pero de a poco se fue congregando mas gente y era medio bardo (en gran parte por nosotros) con respecto a la Hamburguesa pedí una  (que no recuerdo el nombre) que tenia mermelada de tomate   y cebolla acaramelada, la verdad que la combinación me pareció genial",
+    "link": "https://www.meetup.com/burgerjs/events/235263501/comments/472291563/",
+    "created": 1478372496000,
+    "like_count": 2,
+    "member": {
+      "id": 190932738,
+      "name": "Matias B.",
+      "photo": {
+        "id": 265924390,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/highres_265924390.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/member_265924390.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/thumb_265924390.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 472266513,
+    "comment": "Como siempre, hamburguesas con amigos no falla. Sin embargo, pedí la Barrio Norte, y me volvió a suceder algo que ya lo había vivido en esta hamburguesería. La hamburguesa chorreaba mucho por los toppings de cebolla y el mismo jugo de la carne. Termina siendo dificil de comer y obviamente no la disfrutas. Usé 20 servilletas para limpiarme.\nLa carne no estaba mal, pero coincido con Gaby que no era 170g era chica. \nSe tornó insoportable cuando el lugar estaba lleno. No parecía cómodo para grupos al ser una esquina dificil acomodarse.",
+    "link": "https://www.meetup.com/burgerjs/events/235263501/comments/472266513/",
+    "created": 1478314093000,
+    "like_count": 2,
+    "member": {
+      "id": 14435592,
+      "name": "Leandro C.",
+      "photo": {
+        "id": 281864790,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/highres_281864790.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/member_281864790.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/thumb_281864790.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 472265627,
+    "comment": "Yo la pasé bárbaro! Sin embargo, \"Mi Barrio\" me dejó con las ganas de algo mejor. El lugar era chico y me gustó más la intimidad que se armó en Perez-H donde estábamos todos en una mesa con bancos largos comunitarios. La comida? Pedí una Palermo con batatas fritas y cerveza roja. La cantidad de carne, pobre. Claramente no era un paty de 170g. Las que hago en casa de 125g (1/4 de libra) son mucho más grandes. El sabor, rozando lo quemado. Estaba seca. Se ve que se les pasó la cocción. Cheddar? No lo sentí. El pan estaba bien. Las batatas, crujientes por fuera, secas como el desierto por dentro. Flojo. Y la cerveza,  estaba bien también. Mi calificación \"No da para volver\".",
+    "link": "https://www.meetup.com/burgerjs/events/235263501/comments/472265627/",
+    "created": 1478312105000,
+    "like_count": 1,
+    "member": {
+      "id": 23464641,
+      "name": "Gabriel M.",
+      "photo": {
+        "id": 22205911,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/7/1/7/highres_22205911.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/7/1/7/member_22205911.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/7/1/7/thumb_22205911.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 472262268,
+    "comment": "La burger estaba buena, la carne tenia buen gusto, el pan no se desarmaba, creo que era poco el cheddar que tenía. Probé la denominada \"Palermo\". Mi puntaje: 6",
+    "link": "https://www.meetup.com/burgerjs/events/235263501/comments/472262268/",
+    "created": 1478305594000,
+    "like_count": 0,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  }
+]

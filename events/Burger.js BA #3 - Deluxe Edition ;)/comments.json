@@ -1,0 +1,71 @@
+[
+  {
+    "id": 472983610,
+    "comment": "Vamos al comentario esperado... la hamburguesa, para mi \"le faltó\", el pan bien, pero la carne no tenía el gusto que esperaba, como que pasaba inadvertida, como que no estaba ahi, mi panceta estaba QUEMADÍSIMA, parecía un turrón más o menos jaja\n\nPero bien, burger.js parece que es un evento que le gusta a muchos, así que a seguir metiendole pila y me alegro que muchos esten contentos por ello",
+    "link": "https://www.meetup.com/burgerjs/events/235741348/comments/472983610/",
+    "created": 1479994360000,
+    "like_count": 1,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  },
+  {
+    "id": 472982624,
+    "comment": "Espectacular!",
+    "link": "https://www.meetup.com/burgerjs/events/235741348/comments/472982624/",
+    "created": 1479990398000,
+    "like_count": 2,
+    "member": {
+      "id": 195189878,
+      "name": "Manuel R.",
+      "bio": "Software developer and architect, passionate by JavaScript. I love beer, food and do it with the community.",
+      "photo": {
+        "id": 291392670,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/9/e/highres_291392670.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/9/e/member_291392670.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/9/e/thumb_291392670.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": true
+      }
+    }
+  },
+  {
+    "id": 472981516,
+    "comment": "Esos eventos donde la buena onda se siente desde todos lados! Me gustaron las hamburguesas pero sin dudas lo mejor son los miembros de esta comunidad, aguante burguer.js",
+    "link": "https://www.meetup.com/burgerjs/events/235741348/comments/472981516/",
+    "created": 1479985028000,
+    "like_count": 5,
+    "member": {
+      "id": 116173922,
+      "name": "Nicolas I.",
+      "bio": "Soy programador y me gustan las hamburguesas!",
+      "photo": {
+        "id": 245540436,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/highres_245540436.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/member_245540436.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/thumb_245540436.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

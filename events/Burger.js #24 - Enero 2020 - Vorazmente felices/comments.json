@@ -1,0 +1,86 @@
+[
+  {
+    "id": 507794838,
+    "comment": "Pasaron la fecha para el miércoles?",
+    "link": "https://www.meetup.com/burgerjs/events/267990912/comments/507794838/",
+    "created": 1579628596000,
+    "like_count": 0,
+    "member": {
+      "id": 284528214,
+      "name": "Fernando P.",
+      "photo": {
+        "id": 289990458,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/2/8/d/a/highres_289990458.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/2/8/d/a/member_289990458.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/2/8/d/a/thumb_289990458.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 507745710,
+    "comment": "De que se trata?",
+    "link": "https://www.meetup.com/burgerjs/events/267990912/comments/507745710/",
+    "created": 1579442999000,
+    "like_count": 0,
+    "replies": [
+      {
+        "id": 265335400,
+        "in_reply_to": 507745710,
+        "comment": "Comida con nerds (?) jajajajaja",
+        "link": "https://www.meetup.com/burgerjs/events/267990912/comments/507745710/",
+        "created": 1579552863000,
+        "like_count": 1,
+        "member": {
+          "id": 225855067,
+          "name": "Brian H.",
+          "event_context": {
+            "host": false
+          }
+        }
+      },
+      {
+        "id": 265335412,
+        "in_reply_to": 507745710,
+        "comment": "Nos juntamos a comer y hablar de la vida. A veces hay juegos a veces networking, siempre hay hamburguesas.",
+        "link": "https://www.meetup.com/burgerjs/events/267990912/comments/507745710/",
+        "created": 1579552930000,
+        "like_count": 0,
+        "member": {
+          "id": 225855067,
+          "name": "Brian H.",
+          "photo": {
+            "id": 266123926,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/5/d/7/6/highres_266123926.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/5/d/7/6/member_266123926.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/5/d/7/6/thumb_266123926.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+          },
+          "event_context": {
+            "host": false
+          }
+        }
+      }
+    ],
+    "member": {
+      "id": 280253078,
+      "name": "Abigail",
+      "photo": {
+        "id": 287820063,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/3/f/highres_287820063.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/3/f/member_287820063.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/3/f/thumb_287820063.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

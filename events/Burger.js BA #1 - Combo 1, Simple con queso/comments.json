@@ -1,0 +1,136 @@
+[
+  {
+    "id": 473459148,
+    "comment": "Que ganas de volver!",
+    "link": "https://www.meetup.com/burgerjs/events/234928740/comments/473459148/",
+    "created": 1481212709000,
+    "like_count": 0,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  },
+  {
+    "id": 472268322,
+    "comment": "Felicitaciones a los organizadores de este genial evento. Me siento honrado de haber estado presente el día que se tiró la idea de hacerlo realidad.\nSobre Perez H, la verdad es que no le encontré sabor a la hamburguesa. Probé la clásica criolla y me pareció una carne seca, sin condimento, como el paty de carne picada de apuro en tu casa. \nAparte que el pan estaba demasiado desgranado, dice que es casero, y lo hacen ahí pero realmente no es bueno.",
+    "link": "https://www.meetup.com/burgerjs/events/234928740/comments/472268322/",
+    "created": 1478318478000,
+    "like_count": 0,
+    "member": {
+      "id": 14435592,
+      "name": "Leandro C.",
+      "photo": {
+        "id": 281864790,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/highres_281864790.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/member_281864790.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/a/e/f/6/thumb_281864790.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 471701341,
+    "comment": "Genial el evento, que lindo ver a tanta gente copada en un solo lugar. Buenas hamburguesas pero no tenían el mejor pan. La llamada hamburguesa demente es realmente complicada de terminar.",
+    "link": "https://www.meetup.com/burgerjs/events/234928740/comments/471701341/",
+    "created": 1477063459000,
+    "like_count": 1,
+    "member": {
+      "id": 116173922,
+      "name": "Nicolas I.",
+      "bio": "Soy programador y me gustan las hamburguesas!",
+      "photo": {
+        "id": 245540436,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/highres_245540436.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/member_245540436.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/f/d/4/thumb_245540436.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 471666960,
+    "comment": "Se me acaba de complicar y me tuve que bajar. \nPero la próxima voy!",
+    "link": "https://www.meetup.com/burgerjs/events/234928740/comments/471666960/",
+    "created": 1476986558000,
+    "like_count": 1,
+    "member": {
+      "id": 186709653,
+      "name": "Rodrigo Ezequiel D.",
+      "photo": {
+        "id": 250277582,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/4/a/e/highres_250277582.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/4/a/e/member_250277582.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/4/a/e/thumb_250277582.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 471638797,
+    "comment": "No puedo ir mañana, estuve mal de salud y no puedo comer hamburguesa :(, la proxima!",
+    "link": "https://www.meetup.com/burgerjs/events/234928740/comments/471638797/",
+    "created": 1476916614000,
+    "like_count": 2,
+    "member": {
+      "id": 183040364,
+      "name": "Felix E.",
+      "photo": {
+        "id": 242292202,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/2/f/a/a/highres_242292202.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/2/f/a/a/member_242292202.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/2/f/a/a/thumb_242292202.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 471564987,
+    "comment": "Muy buen lugar, el sábado almorcé ahí haciendo la previa a la BurgerJSBA",
+    "link": "https://www.meetup.com/burgerjs/events/234928740/comments/471564987/",
+    "created": 1476748659000,
+    "like_count": 2,
+    "member": {
+      "id": 190932738,
+      "name": "Matias B.",
+      "photo": {
+        "id": 265924390,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/highres_265924390.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/member_265924390.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/1/2/6/thumb_265924390.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

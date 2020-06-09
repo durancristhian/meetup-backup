@@ -1,0 +1,42 @@
+[
+  {
+    "id": 455759254,
+    "highres_link": "https://secure.meetupstatic.com/photos/event/e/7/7/6/highres_455759254.jpeg",
+    "photo_link": "https://secure.meetupstatic.com/photos/event/e/7/7/6/600_455759254.jpeg",
+    "thumb_link": "https://secure.meetupstatic.com/photos/event/e/7/7/6/thumb_455759254.jpeg",
+    "type": "event",
+    "base_url": "https://secure.meetupstatic.com",
+    "link": "https://www.meetup.com/burgerjs/photos/27399952/455759254/",
+    "created": 1478306233000,
+    "updated": 1478306238000,
+    "utc_offset": -10800000,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    },
+    "photo_album": {
+      "id": 27399952,
+      "title": "Burger.js BA #2 - Doble cheddar, doble panceta",
+      "photo_count": 1,
+      "event": {
+        "id": "235263501",
+        "name": "Burger.js BA #2 - Doble cheddar, doble panceta",
+        "yes_rsvp_count": 12,
+        "time": 1478213100000,
+        "utc_offset": -10800000
+      }
+    }
+  }
+]

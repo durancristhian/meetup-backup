@@ -15,7 +15,10 @@ copy(events.map(event => event.href))
 This script will copy to your clipboard the url of each event in the group
 ordered from the newest to the oldest, as they appear on the page
 
-3. Save the array you got from the script on a file called events.json
+3. Save the array you got from the script on a file called events.js
+with the following shape
+
+module.exports = {{THE_ARRAY_YOU_GOT_FROM_DEVTOOLS}}
 
 4. Update the variable MEETUP_GROUP_NAME with the name of your meetup group name
 
@@ -30,7 +33,7 @@ const fs = require('fs')
 const path = require('path')
 const request = require('request')
 
-const events = require('./events.json')
+const events = require('./events')
 
 const eventIds = events
     /* get the last part of the URL which contains the id */
@@ -69,7 +72,7 @@ eventIds.forEach(async eventId => {
         const comments = await get(`${basePath}/comments`)
         const photos = await get(`${basePath}/photos`)
 
-        const eventPath = path.join(__dirname, 'events', event.name)
+        const eventPath = path.join(__dirname, '..', 'events', event.name)
 
         const attendancePath = path.join(eventPath, 'attendance.json')
         const commentsPath = path.join(eventPath, 'comments.json')

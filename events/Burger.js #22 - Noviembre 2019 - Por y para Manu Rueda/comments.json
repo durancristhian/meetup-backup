@@ -1,0 +1,24 @@
+[
+  {
+    "id": 506286219,
+    "comment": "Ya llegué !",
+    "link": "https://www.meetup.com/burgerjs/events/266443362/comments/506286219/",
+    "created": 1573770068000,
+    "like_count": 0,
+    "member": {
+      "id": 284528214,
+      "name": "Fernando P.",
+      "photo": {
+        "id": 289990458,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/2/8/d/a/highres_289990458.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/2/8/d/a/member_289990458.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/2/8/d/a/thumb_289990458.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

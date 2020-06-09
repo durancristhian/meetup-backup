@@ -1,4 +1,4 @@
-[
+module.exports = [
   "https://www.meetup.com/es-ES/burgerjs/events/268854306/",
   "https://www.meetup.com/es-ES/burgerjs/events/267990912/",
   "https://www.meetup.com/es-ES/burgerjs/events/267383978/",

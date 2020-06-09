@@ -1,0 +1,93 @@
+[
+  {
+    "id": 508675614,
+    "comment": "Guarden algo para los que vamos a llegar a las 20!!",
+    "link": "https://www.meetup.com/burgerjs/events/268854306/comments/508675614/",
+    "created": 1582754791000,
+    "like_count": 0,
+    "member": {
+      "id": 23464641,
+      "name": "Gabriel M.",
+      "photo": {
+        "id": 22205911,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/7/1/7/highres_22205911.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/7/1/7/member_22205911.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/7/1/7/thumb_22205911.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 508522875,
+    "comment": "Agustín muchas gracias por la respuesta",
+    "link": "https://www.meetup.com/burgerjs/events/268854306/comments/508522875/",
+    "created": 1582220726000,
+    "like_count": 1,
+    "member": {
+      "id": 226067318,
+      "name": "Jorge T.",
+      "photo": {
+        "id": 266345135,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/4/0/f/highres_266345135.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/4/0/f/member_266345135.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/4/0/f/thumb_266345135.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 508522625,
+    "comment": "Hola cómo están? Miren recién estoy arrancado a programar web, en los encuentros de este meetup además de comer hamburguesas dan charlas sobre buenas prácticas nuevos framework, también talleres de programación. Saludos",
+    "link": "https://www.meetup.com/burgerjs/events/268854306/comments/508522625/",
+    "created": 1582220082000,
+    "like_count": 0,
+    "replies": [
+      {
+        "id": 265732576,
+        "in_reply_to": 508522625,
+        "comment": "Hola Jorge! En kas burger.js no hay charlas o workshops, son descontracturadas y es para charlar y hacer networking y nuevos amigos 😁",
+        "link": "https://www.meetup.com/burgerjs/events/268854306/comments/508522625/",
+        "created": 1582220374000,
+        "like_count": 1,
+        "member": {
+          "id": 239719498,
+          "name": "Agustín M.",
+          "photo": {
+            "id": 271848281,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/b/c/9/9/highres_271848281.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/b/c/9/9/member_271848281.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/b/c/9/9/thumb_271848281.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+          },
+          "event_context": {
+            "host": false
+          }
+        }
+      }
+    ],
+    "member": {
+      "id": 226067318,
+      "name": "Jorge T.",
+      "photo": {
+        "id": 266345135,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/4/0/f/highres_266345135.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/4/0/f/member_266345135.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/4/0/f/thumb_266345135.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]

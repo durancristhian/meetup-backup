@@ -1,0 +1,91 @@
+[
+  {
+    "id": 476212722,
+    "comment": "Linda meetup. Gracias a todos los que vinieron a pesar del clima feo, pero, como decía mi abuelo, al mal tiempo, buena burger 🍔\n\nLa hamburguesa estaba ok. Hubiera preferido cheddar y la carne un poco más cocida",
+    "link": "https://www.meetup.com/burgerjs/events/237578308/comments/476212722/",
+    "created": 1487869170000,
+    "like_count": 1,
+    "member": {
+      "id": 56578422,
+      "name": "Cristhian D.",
+      "photo": {
+        "id": 264158339,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/highres_264158339.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/member_264158339.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/9/5/c/3/thumb_264158339.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "role": "coorganizer",
+      "event_context": {
+        "host": true
+      }
+    }
+  },
+  {
+    "id": 476208431,
+    "comment": "Fue bueno verlos!!",
+    "link": "https://www.meetup.com/burgerjs/events/237578308/comments/476208431/",
+    "created": 1487862247000,
+    "like_count": 1,
+    "member": {
+      "id": 216971661,
+      "name": "Luciano B.",
+      "photo": {
+        "id": 262007778,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/a/a/2/highres_262007778.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/a/a/2/member_262007778.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/a/a/2/thumb_262007778.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 476205788,
+    "comment": "A pesar de la lluvia, se hizo y estuvo genial",
+    "link": "https://www.meetup.com/burgerjs/events/237578308/comments/476205788/",
+    "created": 1487857464000,
+    "like_count": 1,
+    "member": {
+      "id": 176440082,
+      "name": "Agustin P.",
+      "photo": {
+        "id": 248615362,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/8/a/2/2/highres_248615362.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/8/a/2/2/member_248615362.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/8/a/2/2/thumb_248615362.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  },
+  {
+    "id": 476204682,
+    "comment": "A pesar de la lluvia la gente fué lo cual estuvo genial",
+    "link": "https://www.meetup.com/burgerjs/events/237578308/comments/476204682/",
+    "created": 1487854888000,
+    "like_count": 1,
+    "member": {
+      "id": 59714472,
+      "name": "Alejandro O.",
+      "photo": {
+        "id": 69177742,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/e/1/8/e/highres_69177742.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/e/1/8/e/member_69177742.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/e/1/8/e/thumb_69177742.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    }
+  }
+]
