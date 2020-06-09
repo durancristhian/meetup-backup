@@ -1,6 +1,6 @@
 # meetup-backup
 
-[Backup de Burger.js](burgerjs-backup.now.sh)
+[Backup de Burger.js](https://burgerjs-backup.cduran.now.sh/)
 
 Hice esto muy rápido para backupear los eventos de [Burger.js](https://twitter.com/burgerjsba) de meetup.com porque vamos a dejar de usar esa plataforma.
 
