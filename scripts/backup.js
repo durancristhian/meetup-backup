@@ -72,7 +72,7 @@ eventIds.forEach(async eventId => {
         const comments = await get(`${basePath}/comments`)
         const photos = await get(`${basePath}/photos`)
 
-        const eventPath = path.join(__dirname, '..', 'events', event.name)
+        const eventPath = path.join(__dirname, '..', 'web', 'events', event.name)
 
         const attendancePath = path.join(eventPath, 'attendance.json')
         const commentsPath = path.join(eventPath, 'comments.json')

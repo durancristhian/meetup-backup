@@ -4,18 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html",
+    "start": "parcel web/index.html",
     "backup": "node scripts/backup"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/plugin-transform-runtime": "^7.10.1",
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1",
     "parcel-bundler": "^1.12.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "preact": "^10.4.4",
+    "preact-html-converter": "^0.4.2",
     "request": "^2.88.2"
   }
 }
